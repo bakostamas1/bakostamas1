@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-<a href="https://www.codewars.com/users/bakostamas1/stats" target="_blank">![Codewars](https://www.codewars.com/users/bakostamas1/badges/small)</a>
+<a href="https://www.codewars.com/users/bakostamas1" target="_blank">![Codewars](https://www.codewars.com/users/bakostamas1/badges/small)</a>
 
 
 <!--
